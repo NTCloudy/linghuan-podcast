@@ -12,6 +12,135 @@
     <itunes:category text="Fiction"><itunes:category text="Comedy Fiction"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
-
+    <item>
+      <title>靈幻之鑰｜第一章　換座位的命運</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第一章　換座位的命運。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e01.mp3" length="4597101" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e01.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:01:00 +0800</pubDate>
+      <itunes:duration>574</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第二章　舊圖書館大掃除</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第二章　舊圖書館大掃除。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e02.mp3" length="4180269" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e02.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:02:00 +0800</pubDate>
+      <itunes:duration>522</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第三章　艾爾瓦德</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第三章　艾爾瓦德。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e03.mp3" length="4578477" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e03.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:03:00 +0800</pubDate>
+      <itunes:duration>572</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第四章　三十公尺的詛咒</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第四章　三十公尺的詛咒。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e04.mp3" length="5152365" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e04.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:04:00 +0800</pubDate>
+      <itunes:duration>643</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第五章　冒險者公會</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第五章　冒險者公會。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e05.mp3" length="5434413" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e05.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:05:00 +0800</pubDate>
+      <itunes:duration>679</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第六章　一間房，一道長城</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第六章　一間房，一道長城。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e06.mp3" length="4901613" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e06.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:06:00 +0800</pubDate>
+      <itunes:duration>612</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第七章　教官與短劍</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第七章　教官與短劍。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e07.mp3" length="5577837" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e07.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:07:00 +0800</pubDate>
+      <itunes:duration>697</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第八章　第一場實戰</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第八章　第一場實戰。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e08.mp3" length="5967213" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e08.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:08:00 +0800</pubDate>
+      <itunes:duration>745</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第九章　第一扉</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第九章　第一扉。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e09.mp3" length="5673261" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e09.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:09:00 +0800</pubDate>
+      <itunes:duration>709</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第十章　回到現實</title>
+      <description>《靈幻之鑰》第一卷「鑰匙與門」　第十章　回到現實。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e10.mp3" length="4497645" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e10.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:10:00 +0800</pubDate>
+      <itunes:duration>562</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
   </channel>
 </rss>
