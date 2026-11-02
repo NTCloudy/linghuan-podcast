@@ -1,9 +1,10 @@
 """Chapter text -> MP3 with edge-tts (zh-TW male), chunked + concatenated."""
 import asyncio, re, subprocess, sys, tempfile, os
 import edge_tts
-VOICE = os.environ.get("VOICE", "zh-CN-YunxiNeural")
+VOICE = os.environ.get("VOICE", "zh-TW-HsiaoChenNeural")
 
 def clean(text):
+    text = re.sub(r"^【插圖[A-Za-z0-9]*】\s*$", "", text, flags=re.M)  # KadoKado illustration markers
     text = re.sub(r"^【[一二三四五六七八九十]+】\s*$", "……", text, flags=re.M)
     text = text.replace("——", "，").replace("……", "。")
     text = re.sub(r"\n{2,}", "\n", text)
