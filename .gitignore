@@ -1,2 +1,4 @@
 __pycache__/
 cron.log
+*.part.mp3
+episodes.json.tmp

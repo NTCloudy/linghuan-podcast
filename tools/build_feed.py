@@ -11,9 +11,13 @@ desc = ("《靈幻之鑰》有聲書。高二開學換座位，我抽到班花�
 items = []
 for e in eps:
     f = f"docs/audio/{e['file']}"
+    if not os.path.exists(f): continue
     size = os.path.getsize(f)
-    dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f],
-                               capture_output=True, text=True).stdout.strip())
+    out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f],
+                               capture_output=True, text=True).stdout.strip()
+    if not out:
+        print("skip unreadable", f); continue  # skip unreadable / half-written audio instead of failing the whole feed
+    dur = float(out)
     e["duration"] = int(dur)
     items.append(f"""    <item>
       <title>{html.escape(e['title'])}</title>

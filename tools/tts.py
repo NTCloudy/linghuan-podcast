@@ -30,6 +30,7 @@ async def synth(text, path):
 def main(src, out, intro, outro):
     body = clean(open(src, encoding="utf-8").read())
     parts = [intro] + chunks(body) + [outro]
+    tmp = out + ".part.mp3"
     with tempfile.TemporaryDirectory() as td:
         files = []
         for i, t in enumerate(parts):
@@ -37,7 +38,8 @@ def main(src, out, intro, outro):
         lst = f"{td}/list.txt"
         open(lst, "w").write("".join(f"file '{f}'\n" for f in files))
         subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst,
-                        "-ac", "1", "-ar", "24000", "-b:a", "64k", out], check=True)
+                        "-ac", "1", "-ar", "24000", "-b:a", "64k", tmp], check=True)
+        os.replace(tmp, out)  # never leave a half-written MP3 behind
     dur = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", out],
                          capture_output=True, text=True).stdout.strip()
     print(out, dur)
