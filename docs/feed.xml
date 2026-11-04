@@ -974,5 +974,83 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
     </item>
+    <item>
+      <title>靈幻之鑰｜第七十五章　不用帥</title>
+      <description>《靈幻之鑰》第八卷「靈幻之鑰」　第七十五章　不用帥。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e75.mp3" length="9930285" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e75.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 13:15:00 +0800</pubDate>
+      <itunes:duration>1241</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第七十六章　第九條</title>
+      <description>《靈幻之鑰》第八卷「靈幻之鑰」　第七十六章　第九條。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e76.mp3" length="10306605" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e76.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 13:16:00 +0800</pubDate>
+      <itunes:duration>1288</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第七十七章　在一起的第一天</title>
+      <description>《靈幻之鑰》第八卷「靈幻之鑰」　第七十七章　在一起的第一天。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e77.mp3" length="10160301" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e77.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 13:17:00 +0800</pubDate>
+      <itunes:duration>1269</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第七十八章　靈幻之鑰</title>
+      <description>《靈幻之鑰》第八卷「靈幻之鑰」　第七十八章　靈幻之鑰。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e78.mp3" length="10356141" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e78.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 13:18:00 +0800</pubDate>
+      <itunes:duration>1294</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第七十九章　換我保護你</title>
+      <description>《靈幻之鑰》第八卷「靈幻之鑰」　第七十九章　換我保護你。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e79.mp3" length="10966893" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e79.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 13:19:00 +0800</pubDate>
+      <itunes:duration>1370</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>靈幻之鑰｜第八十章　你迷路了嗎？</title>
+      <description>《靈幻之鑰》第八卷「靈幻之鑰」　第八十章　你迷路了嗎？。</description>
+      <enclosure url="https://ntcloudy.github.io/linghuan-podcast/audio/e80.mp3" length="10424877" type="audio/mpeg"/>
+      <guid isPermaLink="false">linghuan-e80.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 13:20:00 +0800</pubDate>
+      <itunes:duration>1303</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/linghuan-podcast/img/cover.jpg"/>
+    </item>
   </channel>
 </rss>
